@@ -45,8 +45,6 @@ public class HomeWork2 {
             default:
                 System.out.println("Некорректное значение");
                 break;
-
-
         }
     }
 }
